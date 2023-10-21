@@ -1,7 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
 
-//extendemos do jdialog pois ele que gerencia as telas do swing do java
 public class Tela extends JDialog {
 
     private JPanel Painel = new JPanel();
